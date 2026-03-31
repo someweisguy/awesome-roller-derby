@@ -32,7 +32,7 @@ True. It can also be awesome, but less awesome. :)
 
 ## Scoreboards
 - [CRG Derby Scoreboard](https://github.com/rollerderby/scoreboard) - The most-used scoreboard, provides overlays for video production & export game to a WFTDA statsbook.
-- [NSOBridge](https://github.com/someweisguy/NSOBridge) - [WIP] Very early infancy and still has quite a ways to go before it will be ready
+- [NSOBridge](https://github.com/someweisguy/NSOBridge) - [WIP] A scoreboard app designed to make it easier for new NSOs to operate the scoreboard.
 - [ARD Scoreboard](https://github.com/BrewSleeDerby/scoreboard) - [WIP] WFTDA Roller Derby scoreboard app made with Vue 3 in early stage of developement
 - [Jamster](https://github.com/awsxdr/jamster) - [WIP] Scoreboard and live stats system for running games
 - [score5al](https://github.com/LamseyMcBrien/score5al) - Scoreboard application for Sur5al-style roller derby competitions (Not maintained)
